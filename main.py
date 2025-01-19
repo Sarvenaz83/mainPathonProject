@@ -17,4 +17,12 @@ tal2 = int(tal2_str)
 summa =tal1 + tal2
 print("Summan av talen är:",summa)
 
+#2a: Beräkna kostnad för en jacka på 50% rea
+
+pris = 2000
+rea_procent = 50
+
+slut_pris = pris * rea_procent / 100
+print("Jackan kostar med 50% rea:", slut_pris, "kr")
+
 
