@@ -1,3 +1,4 @@
+import math
 #1 Skapa projekt och synka med GitHub:
 
 print("Hello World")
@@ -80,5 +81,10 @@ minutes = int(time_minutes % 60)
 print(f"Det tar cirka {hours} timmar och {minutes} minuter att åka {distance_km} km.")
 
 
+#2
+a = float(input("Ange längden på sida a: "))
+b= float(input("Ange längden på sida b: "))
 
+c = math.sqrt(a**2 + b**2)
+print("Hypotenusan är:", c)
 
