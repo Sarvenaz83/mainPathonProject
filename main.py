@@ -1,4 +1,5 @@
 import math
+import datetime
 #1 Skapa projekt och synka med GitHub:
 
 print("Hello World")
@@ -87,4 +88,16 @@ b= float(input("Ange längden på sida b: "))
 
 c = math.sqrt(a**2 + b**2)
 print("Hypotenusan är:", c)
+
+# 3a
+today = datetime.date.today()
+print("Dagens datum är:", today)
+
+#3b
+today = datetime.date.today()
+seven_days_later = today + datetime.timedelta(days=7)
+print("Dagens datum är:", today)
+print("Datum om 7 dagar är:", seven_days_later)
+
+
 

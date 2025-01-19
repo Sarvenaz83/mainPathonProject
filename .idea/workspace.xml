@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74f8a9b-58d1-4afb-b646-28622d343cc8" name="Changes" comment="comitt uppgiften 4-1a">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="b74f8a9b-58d1-4afb-b646-28622d343cc8" name="Changes" comment="comitt uppgiften 4-2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737322735301</updated>
-      <workItem from="1737322736134" duration="2603000" />
+      <workItem from="1737322736134" duration="3039000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <option name="closed" value="true" />
@@ -149,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737325339702</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="comitt uppgiften 4-1b">
+      <option name="closed" value="true" />
+      <created>1737325536491</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737325536491</updated>
+    </task>
+    <task id="LOCAL-00011" summary="comitt uppgiften 4-2">
+      <option name="closed" value="true" />
+      <created>1737325804792</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737325804792</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,9 +176,11 @@
     <MESSAGE value="comitt uppgiften 3-2a" />
     <MESSAGE value="comitt uppgiften 3-2b" />
     <MESSAGE value="comitt uppgiften 4-1a" />
-    <option name="LAST_COMMIT_MESSAGE" value="comitt uppgiften 4-1a" />
+    <MESSAGE value="comitt uppgiften 4-1b" />
+    <MESSAGE value="comitt uppgiften 4-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="comitt uppgiften 4-2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1737325247614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1737325386157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
