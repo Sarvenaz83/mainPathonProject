@@ -52,4 +52,33 @@ time_seconds = distance_m / speed_ms
 time_hours = time_seconds / 3600
 print("Det tar cirka", time_hours, "timmar att åka", distance_km, "km.")
 
+# 1b
+distance_km = 470
+distance_m = distance_km * 1000
+
+speed_kmh = float(input("Ange hastighet i km/h: "))
+speed_ms = speed_kmh / 3.6
+
+time_seconds = distance_m / speed_ms
+time_minutes = time_seconds / 60
+
+print("Det tar cirka", time_minutes, "minuter att åka", distance_km, "km.")
+
+# 1c
+distance_km = 470
+distance_m = distance_km * 1000
+
+speed_kmh = float(input("Ange hastighet i km/h: "))
+speed_ms = speed_kmh / 3.6
+
+time_seconds = distance_m / speed_ms
+time_minutes = time_seconds / 60
+
+hours = int(time_minutes // 60)
+minutes = int(time_minutes % 60)
+
+print(f"Det tar cirka {hours} timmar och {minutes} minuter att åka {distance_km} km.")
+
+
+
 
