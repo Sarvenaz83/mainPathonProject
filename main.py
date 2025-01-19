@@ -38,4 +38,18 @@ print("Jackans ordinarie pris är:", pris, "kr")
 print("Du får", rea_procent, "% rabbat, vilket är", rabatt, "kr")
 print("Slutpriset blir då:", slut_pris, "kr")
 
+# 4 Fler övningar:
+# 1a:
+distance_km = 470
+distance_m = distance_km / 1000
+
+speed_kmh = float(input("Ange hastighet i km/h: "))
+
+speed_ms = speed_kmh / 3.6
+
+time_seconds = distance_m / speed_ms
+
+time_hours = time_seconds / 3600
+print("Det tar cirka", time_hours, "timmar att åka", distance_km, "km.")
+
 
